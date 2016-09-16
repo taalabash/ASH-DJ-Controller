@@ -2,7 +2,7 @@
 
 
 ASH DJ controller is a basic dj controller for arduino mega 2560 , it basicly sends midi signals to the pc to control a dj software like Virtual-DJ 
-this flatform apears as generic midi controller in windows device manager (thanks to MOCO-LUFA)
+this platform apears as generic midi controller in windows device manager (thanks to MOCO-LUFA)
 
 the controller can handle :
 
